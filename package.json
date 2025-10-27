@@ -1,0 +1,15 @@
+{
+  "name": "nkflix",
+  "version": "1.0.0",
+  "description": "Projeto NKFlix - estilo Netflix com OMDb API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
